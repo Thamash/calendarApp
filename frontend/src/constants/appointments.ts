@@ -32,14 +32,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-17': [
     {
-      id: 1,
+      id: 4,
       title: 'Budget Discussion',
       start: '2024-11-17T11:00:00',
       end: '2024-11-17T12:30:00',
       participants: [PARTICIPANTS[2], PARTICIPANTS[9]],
     },
     {
-      id: 2,
+      id: 5,
       title: 'Status Update',
       start: '2024-11-17T13:00:00',
       end: '2024-11-17T14:00:00',
@@ -51,14 +51,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 3,
+      id: 6,
       title: 'Client Meeting',
       start: '2024-11-17T15:00:00',
       end: '2024-11-17T16:00:00',
       participants: [PARTICIPANTS[4], PARTICIPANTS[14]],
     },
     {
-      id: 4,
+      id: 7,
       title: 'Resource Planning',
       start: '2024-11-17T14:30:00',
       end: '2024-11-17T16:30:00',
@@ -67,7 +67,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-18': [
     {
-      id: 1,
+      id: 8,
       title: 'Team Training',
       start: '2024-11-18T09:30:00',
       end: '2024-11-18T11:00:00',
@@ -80,21 +80,21 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 2,
+      id: 9,
       title: 'Department Sync',
       start: '2024-11-18T10:00:00',
       end: '2024-11-18T11:30:00',
       participants: [PARTICIPANTS[5], PARTICIPANTS[10]],
     },
     {
-      id: 3,
+      id: 10,
       title: 'Project Review',
       start: '2024-11-18T14:00:00',
       end: '2024-11-18T15:00:00',
       participants: [PARTICIPANTS[3], PARTICIPANTS[8], PARTICIPANTS[17]],
     },
     {
-      id: 4,
+      id: 11,
       title: 'Sprint Planning',
       start: '2024-11-18T15:30:00',
       end: '2024-11-18T17:00:00',
@@ -108,21 +108,21 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-19': [
     {
-      id: 1,
+      id: 12,
       title: 'Code Review',
       start: '2024-11-19T10:00:00',
       end: '2024-11-19T11:00:00',
       participants: [PARTICIPANTS[2], PARTICIPANTS[15]],
     },
     {
-      id: 2,
+      id: 13,
       title: 'Design Review',
       start: '2024-11-19T11:30:00',
       end: '2024-11-19T12:30:00',
       participants: [PARTICIPANTS[7], PARTICIPANTS[14], PARTICIPANTS[23]],
     },
     {
-      id: 3,
+      id: 14,
       title: 'Team Lunch',
       start: '2024-11-19T12:00:00',
       end: '2024-11-19T13:30:00',
@@ -137,14 +137,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-20': [
     {
-      id: 1,
+      id: 15,
       title: 'Weekly Standup',
       start: '2024-11-20T09:00:00',
       end: '2024-11-20T10:00:00',
       participants: [PARTICIPANTS[4], PARTICIPANTS[11]],
     },
     {
-      id: 2,
+      id: 16,
       title: 'Product Demo',
       start: '2024-11-20T11:00:00',
       end: '2024-11-20T12:30:00',
@@ -156,21 +156,21 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 3,
+      id: 17,
       title: 'Team Retrospective',
       start: '2024-11-20T14:00:00',
       end: '2024-11-20T15:30:00',
       participants: [PARTICIPANTS[8], PARTICIPANTS[16], PARTICIPANTS[24]],
     },
     {
-      id: 4,
+      id: 18,
       title: 'Strategy Meeting',
       start: '2024-11-20T15:00:00',
       end: '2024-11-20T16:30:00',
       participants: [PARTICIPANTS[3], PARTICIPANTS[10], PARTICIPANTS[22]],
     },
     {
-      id: 5,
+      id: 19,
       title: 'Documentation Review',
       start: '2024-11-20T16:00:00',
       end: '2024-11-20T17:00:00',
@@ -179,7 +179,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-21': [
     {
-      id: 1,
+      id: 20,
       title: 'Security Review',
       start: '2024-11-21T10:30:00',
       end: '2024-11-21T12:00:00',
@@ -191,14 +191,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 2,
+      id: 21,
       title: 'Requirements Gathering',
       start: '2024-11-21T13:00:00',
       end: '2024-11-21T14:30:00',
       participants: [PARTICIPANTS[2], PARTICIPANTS[15], PARTICIPANTS[26]],
     },
     {
-      id: 3,
+      id: 22,
       title: 'Architecture Review',
       start: '2024-11-21T14:00:00',
       end: '2024-11-21T15:30:00',
@@ -207,7 +207,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-22': [
     {
-      id: 1,
+      id: 23,
       title: 'Project Kickoff',
       start: '2024-11-22T09:00:00',
       end: '2024-11-22T10:30:00',
@@ -219,14 +219,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 2,
+      id: 24,
       title: 'Performance Review',
       start: '2024-11-22T11:00:00',
       end: '2024-11-22T12:00:00',
       participants: [PARTICIPANTS[4], PARTICIPANTS[11]],
     },
     {
-      id: 3,
+      id: 25,
       title: 'Team Building',
       start: '2024-11-22T14:00:00',
       end: '2024-11-22T15:30:00',
@@ -239,7 +239,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 4,
+      id: 26,
       title: 'Quality Assurance',
       start: '2024-11-22T15:00:00',
       end: '2024-11-22T16:30:00',
@@ -248,7 +248,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-23': [
     {
-      id: 1,
+      id: 27,
       title: 'Stakeholder Meeting',
       start: '2024-11-23T10:00:00',
       end: '2024-11-23T11:30:00',
@@ -260,14 +260,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 2,
+      id: 28,
       title: 'Release Planning',
       start: '2024-11-23T13:00:00',
       end: '2024-11-23T14:00:00',
       participants: [PARTICIPANTS[5], PARTICIPANTS[18]],
     },
     {
-      id: 3,
+      id: 29,
       title: 'Innovation Workshop',
       start: '2024-11-23T14:30:00',
       end: '2024-11-23T16:00:00',
@@ -281,28 +281,28 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-24': [
     {
-      id: 1,
+      id: 30,
       title: 'Risk Assessment',
       start: '2024-11-24T09:30:00',
       end: '2024-11-24T11:00:00',
       participants: [PARTICIPANTS[0], PARTICIPANTS[15], PARTICIPANTS[24]],
     },
     {
-      id: 2,
+      id: 32,
       title: 'Client Workshop',
       start: '2024-11-24T11:30:00',
       end: '2024-11-24T13:00:00',
       participants: [PARTICIPANTS[7], PARTICIPANTS[14], PARTICIPANTS[29]],
     },
     {
-      id: 3,
+      id: 33,
       title: 'Technical Discussion',
       start: '2024-11-24T14:00:00',
       end: '2024-11-24T15:30:00',
       participants: [PARTICIPANTS[4], PARTICIPANTS[12], PARTICIPANTS[21]],
     },
     {
-      id: 4,
+      id: 34,
       title: 'Process Improvement',
       start: '2024-11-24T15:00:00',
       end: '2024-11-24T16:30:00',
@@ -316,14 +316,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-25': [
     {
-      id: 1,
+      id: 35,
       title: 'Product Strategy',
       start: '2024-11-25T10:00:00',
       end: '2024-11-25T11:30:00',
       participants: [PARTICIPANTS[1], PARTICIPANTS[8], PARTICIPANTS[16]],
     },
     {
-      id: 2,
+      id: 36,
       title: 'Team Alignment',
       start: '2024-11-25T13:00:00',
       end: '2024-11-25T14:30:00',
@@ -335,7 +335,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 3,
+      id: 37,
       title: 'Data Review',
       start: '2024-11-25T14:00:00',
       end: '2024-11-25T15:30:00',
@@ -350,7 +350,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
   ],
   '2024-11-26': [
     {
-      id: 1,
+      id: 38,
       title: 'Planning Session',
       start: '2024-11-26T09:00:00',
       end: '2024-11-26T10:30:00',
@@ -362,14 +362,14 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 2,
+      id: 39,
       title: 'Project Update',
       start: '2024-11-26T11:00:00',
       end: '2024-11-26T12:30:00',
       participants: [PARTICIPANTS[4], PARTICIPANTS[14], PARTICIPANTS[22]],
     },
     {
-      id: 3,
+      id: 40,
       title: 'Team Sync',
       start: '2024-11-26T14:00:00',
       end: '2024-11-26T15:00:00',
@@ -381,7 +381,7 @@ export const DUMMY_APPOINTMENTS: AppointmentsByDate = {
       ],
     },
     {
-      id: 4,
+      id: 41,
       title: 'Review Meeting',
       start: '2024-11-26T15:30:00',
       end: '2024-11-26T17:00:00',
