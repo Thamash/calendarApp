@@ -5,7 +5,7 @@ import LanguageSelector from '../ui/custom/LanguageSelector/LanguageSelector';
 
 const Header = () => {
   return (
-    <div className="flex items-center justify-between gap-4 p-4 mb-4 rounded-lg shadow-sm bg-card dark:bg-gray-800">
+    <div className="flex flex-col items-center justify-between gap-4 p-4 mb-4 rounded-lg shadow-sm md:flex-row bg-card dark:bg-gray-800">
       <DatePickerWithStepper />
       <div className="flex gap-2">
         <LanguageSelector />

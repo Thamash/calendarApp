@@ -32,7 +32,7 @@ export const DatePickerWithStepper = () => {
       <PopoverTrigger asChild>
         <Button
           variant="outline"
-          className="w-[220px] justify-start text-left font-normal"
+          className="sm:w-[220px] w-[150px] justify-start text-left font-normal"
         >
           <CalendarIcon className="w-4 h-4 mr-2" />
           <span className="m-auto">{format(date, DATE_FORMAT)}</span>

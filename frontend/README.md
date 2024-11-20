@@ -25,6 +25,7 @@ As this is a frontend-only application, all data is stored in local storage.
 * Zustand
 
 ## Getting Started
+Required node version: v20.17.0
 To run the application:
 1. Install dependencies:
 ```bash

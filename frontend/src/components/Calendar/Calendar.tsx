@@ -86,7 +86,7 @@ export const Calendar: React.FC = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="flex items-center justify-center min-h-screen m-auto bg-white max-w-[500px] dark:bg-gray-900">
+    <div className="flex items-center justify-center min-h-screen m-auto bg-white min-w-[300px] max-w-[500px] dark:bg-gray-900">
       <div className="flex flex-col w-full h-screen max-w-4xl gap-3 p-4 mx-auto">
         <Header />
 
